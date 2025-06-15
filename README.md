@@ -1,7 +1,10 @@
 <!-- 👇 Friendly message for instructors and classmates -->
 
-> 📝 This job aid was created in Markdown, using Visual Studio Code, to reflect real-world development practices.  
-> For best results, **use "Preview" in VSCode** (`Ctrl+Shift+V`)
+> 📝 This job aid was created in Markdown, using Visual Studio Code, to reflect real-world development practices.
+
+> To view it properly in VSCode, use **Markdown Preview** by pressing `Ctrl+Shift+V` (Windows/Linux) or `Cmd+Shift+V` (Mac).
+
+> In VSCode, open the file and press the shortcut, or right-click and choose **"Open Preview"**.
 
 ---
 
