@@ -1,7 +1,7 @@
 <!-- 👇 Friendly message for instructors and classmates -->
 
-> 📝 This job aid was created in Markdown to reflect real-world development practices.  
-> For best results, **use "Preview" in VSCode** (`Ctrl+Shift+V`) or **[view it on GitHub](https://github.com/JRobak/github_job_aid/blob/main/github_job_aid.md)**.
+> 📝 This job aid was created in Markdown, using Visual Studio Code, to reflect real-world development practices.  
+> For best results, **use "Preview" in VSCode** (`Ctrl+Shift+V`)
 
 ---
 
